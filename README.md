@@ -38,4 +38,3 @@ Com o container do SQL Server rodando, conecte-se ao banco e  execute as queries
 ~$ dotnet run watch 
 ```
 
-## Detalhes da implementação da API de Logging do .NET
